@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 🌱 I’m currently learning Bash<br><br>👯 I’m looking to collaborate on DevOps<br><br>🤝 I’m looking for help with Python<br><br>💬 Ask me about DevOps<br><br>📫 How to reach me batuhanisiklar0@gmail.com
 
-<h1 align="center"></h1>
+<h1 align="center"> </h1>
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/batuhanisiklar) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/bthnsklr0) 
 
