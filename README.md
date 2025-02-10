@@ -1,7 +1,5 @@
 <h3>Hello, I'm Batuhan!</h3>
 
-`npx batuhanisiklar`
-
 <p align="left">
 I am a junior network engineer with experience in Python, .NET, Go, and Flask for application development and automation. I have worked with Docker, Kubernetes, and microservices, along with Kafka and RabbitMQ for messaging.
 
