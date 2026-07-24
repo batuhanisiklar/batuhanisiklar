@@ -1,8 +1,7 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&text=Batuhan%20Işıklar&fontAlign=50&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
-
-<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&text=Batuhan%20I%C5%9F%C4%B1klar&fontAlign=50&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
 
 # 👋 Hi, I'm Batuhan Işıklar
+<div align="center">
 
 ### Software Engineer
 
