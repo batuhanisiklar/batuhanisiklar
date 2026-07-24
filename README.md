@@ -2,37 +2,42 @@
 
 # 👋 Hi, I'm Batuhan Işıklar
 
-### Software Engineer • Backend Developer • Cloud Enthusiast
+### Software Engineer
 
-Building scalable backend systems, cloud-native applications and automation tools.
+Passionate about building reliable software, learning new technologies, and solving real-world problems.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/batuhanisiklar)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:batuhanisiklar0@gmail.com)
+<p>
+  <a href="https://linkedin.com/in/batuhanisiklar">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:batuhanisiklar0@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 </div>
 
 ---
 
-# 👨🏻‍💻 About Me
+## 💡 About Me
 
-- 🎓 Computer Engineering Student
-- 🇩🇪 Preparing for Master's Degree in Germany
-- 💻 Interested in Backend Development
-- ☁️ Learning Cloud Computing & DevOps
-- ⚡ Building scalable and maintainable software
-- 🌱 Always learning new technologies
+- 💻 Interested in software engineering and modern application development.
+- 🌱 Always learning new technologies and improving my engineering skills.
+- 🛠️ Enjoy building practical, scalable, and maintainable software solutions.
+- 🤝 Open to collaboration on interesting projects and open-source contributions.
+- 📚 Continuously exploring different programming languages, frameworks, and tools.
 
 ---
 
-# 🚀 Tech Stack
+## 🛠️ Tech Stack
 
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=go,cs,java,python,bash,powershell"/>
+<img src="https://skillicons.dev/icons?i=py,go,cs,java,bash,powershell"/>
 </p>
 
-### Backend
+### Frameworks
 
 <p>
 <img src="https://skillicons.dev/icons?i=dotnet,flask"/>
@@ -41,7 +46,7 @@ Building scalable backend systems, cloud-native applications and automation tool
 ### Cloud & DevOps
 
 <p>
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,kafka,rabbitmq,cloudflare"/>
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,cloudflare,kafka,rabbitmq"/>
 </p>
 
 ### Databases
@@ -58,50 +63,38 @@ Building scalable backend systems, cloud-native applications and automation tool
 
 ---
 
-# 📈 GitHub Statistics
+## 📊 GitHub Statistics
 
 <p align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=batuhanisiklar&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=batuhanisiklar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=batuhanisiklar&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=batuhanisiklar&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 <p align="center">
 
-<img width="75%" src="https://streak-stats.demolab.com?user=batuhanisiklar&theme=tokyonight&hide_border=true"/>
+<img width="65%" src="https://streak-stats.demolab.com?user=batuhanisiklar&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-# 📊 Contribution Graph
+## 🏆 GitHub Achievements
 
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=batuhanisiklar&theme=tokyo-night&hide_border=true"/>
-
+<img src="https://github-profile-trophy.vercel.app/?username=batuhanisiklar&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6"/>
 </p>
 
 ---
 
-# 📌 Featured Projects
-
-| Project | Description |
-|----------|-------------|
-| 🔹 Project 1 | Short description |
-| 🔹 Project 2 | Short description |
-| 🔹 Project 3 | Short description |
-
----
-
-# 📫 Let's Connect
+## 📫 Connect with Me
 
 <p align="center">
 
 <a href="mailto:batuhanisiklar0@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://linkedin.com/in/batuhanisiklar">
@@ -112,8 +105,8 @@ Building scalable backend systems, cloud-native applications and automation tool
 
 ---
 
-<p align="center">
+<div align="center">
 
-> "Code is like humor. When you have to explain it, it's bad."
+*"First, solve the problem. Then, write the code."* — John Johnson
 
-</p>
+</div>
