@@ -1,127 +1,222 @@
 <div align="center">
 
-# 👋 Hi, I’m Batuhan Işıklar
+# 👋 Hi, I'm Batuhan Işıklar
 
 ### Software Engineer
 
-Passionate about building reliable software, exploring new technologies, and continuously improving my engineering skills.
+Building software, learning continuously, and solving real-world problems.
 
 <p>
-  <a href="https://linkedin.com/in/batuhanisiklar">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:batuhanisiklar0@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
+
+<a href="https://github.com/batuhanisiklar">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/batuhanisiklar">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:batuhanisiklar0@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
 </p>
 
 </div>
 
 ---
 
-## 💡 About Me
+# 💡 About Me
 
-* 💻 Interested in software engineering and modern application development.
-* 🌱 Always learning new technologies and improving my engineering skills.
-* 🛠️ Enjoy building practical, scalable, and maintainable software solutions.
-* 🤝 Open to collaboration on interesting projects and open-source contributions.
-* 🚀 Interested in software architecture, system design, cloud technologies, and automation.
+- 💻 Passionate about software engineering and modern application development.
+- 🚀 Interested in building reliable, scalable, and maintainable software.
+- 🌱 Continuously learning new technologies, tools, and engineering practices.
+- 🤝 Open to collaboration, open-source projects, and new opportunities.
+- ⚡ Enjoy solving challenging problems with clean and efficient solutions.
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠 Tech Stack
 
-<table align="center">
-  <tr>
-    <td align="center" width="22%"><b>Languages</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=py,go,cs,java,bash,powershell" alt="Languages" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><b>Frameworks</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=dotnet,flask" alt="Frameworks" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><b>Cloud & DevOps</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,cloudflare,kafka,rabbitmq" alt="Cloud & DevOps" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><b>Databases</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=postgres,mysql" alt="Databases" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><b>Tools</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=git,linux,postman" alt="Tools" />
-    </td>
-  </tr>
+<table>
+<tr>
+<td><b>Languages</b></td>
+<td>
+
+<img src="https://skillicons.dev/icons?i=cs,go,py,java,bash,powershell"/>
+
+</td>
+</tr>
+
+<tr>
+<td><b>Frameworks</b></td>
+<td>
+
+<img src="https://skillicons.dev/icons?i=dotnet,flask"/>
+
+</td>
+</tr>
+
+<tr>
+<td><b>Cloud & DevOps</b></td>
+<td>
+
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,kafka,rabbitmq,cloudflare"/>
+
+</td>
+</tr>
+
+<tr>
+<td><b>Databases</b></td>
+<td>
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql"/>
+
+</td>
+</tr>
+
+<tr>
+<td><b>Tools</b></td>
+<td>
+
+<img src="https://skillicons.dev/icons?i=git,linux,postman"/>
+
+</td>
+</tr>
+
 </table>
 
 ---
 
-## ⭐ Featured Projects
+# ⭐ Featured Projects
 
-<p align="center">
+<table>
 
-<a href="https://github.com/batuhanisiklar/Tether">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=batuhanisiklar&repo=REPO1&theme=tokyonight&hide_border=true" alt="Tether"/>
-</a>
+<tr>
 
-<a href="https://github.com/batuhanisiklar/quick-dash">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=batuhanisiklar&repo=REPO1&theme=tokyonight&hide_border=true" alt="QuickDash — Real-Time Windows Monitoring Dashboard"/>
-</a>
+<td width="50%">
 
-<a href="https://github.com/batuhanisiklar/BreastCancer-MLP-Evaluator">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=batuhanisiklar&repo=REPO2&theme=tokyonight&hide_border=true" alt="MLP Classifier Evaluation using Tkinter GUI"/>
-</a>
+## 🚀 Tether
 
-</p>
+A modern software project focused on clean architecture and scalable application development.
 
-<p align="center">
+**Tech**
 
-<a href="https://github.com/batuhanisiklar/resume-site">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=batuhanisiklar&repo=REPO3&theme=tokyonight&hide_border=true" alt="ResumeSite (.NET + Docker + Jenkins)"/>
-</a>
+`C#` `ASP.NET` `PostgreSQL`
 
-<a href="https://github.com/batuhanisiklar/speed-limit-detection">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=batuhanisiklar&repo=REPO4&theme=tokyonight&hide_border=true" alt="Speed Limit Sign Detection using OpenCV | Tesseract"/>
-</a>
+<a href="https://github.com/batuhanisiklar/Tether">View Repository →</a>
 
-</p>
+</td>
 
+<td width="50%">
+
+## 📊 Quick Dash
+
+Real-time Windows monitoring dashboard with performance analytics.
+
+**Tech**
+
+`C#` `.NET` `WinForms`
+
+<a href="https://github.com/batuhanisiklar/quick-dash">View Repository →</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+## 🧠 BreastCancer-MLP-Evaluator
+
+Machine Learning desktop application with Tkinter interface.
+
+**Tech**
+
+`Python` `Scikit-Learn` `Tkinter`
+
+<a href="https://github.com/batuhanisiklar/BreastCancer-MLP-Evaluator">View Repository →</a>
+
+</td>
+
+<td>
+
+## 📄 Resume Site
+
+Personal portfolio website with Dockerized deployment.
+
+**Tech**
+
+`.NET` `Docker` `Jenkins`
+
+<a href="https://github.com/batuhanisiklar/resume-site">View Repository →</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+## 🚗 Speed Limit Detection
+
+Traffic sign recognition using computer vision and OCR.
+
+**Tech**
+
+`Python` `OpenCV` `Tesseract`
+
+<a href="https://github.com/batuhanisiklar/speed-limit-detection">View Repository →</a>
+
+</td>
+
+<td>
+
+## 📚 More Projects
+
+Explore all repositories on my GitHub profile.
+
+➡️ https://github.com/batuhanisiklar?tab=repositories
+
+</td>
+
+</tr>
+
+</table>
 
 ---
 
-## 📊 GitHub Statistics
+# 📊 GitHub Statistics
 
-<p align="center">
-  <img height="180" src="https://streak-stats.demolab.com?user=batuhanisiklar&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</p>
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=batuhanisiklar&theme=tokyonight&hide_border=true"/>
+
+</div>
 
 ---
 
-## 📫 Connect with Me
+# 📫 Contact
 
-<p align="center">
-  <a href="mailto:batuhanisiklar0@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://linkedin.com/in/batuhanisiklar">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-</p>
+<div align="center">
+
+<a href="mailto:batuhanisiklar0@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/batuhanisiklar">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
 <div align="center">
 
-*“First, solve the problem. Then, write the code.”* — John Johnson
+> *"First, solve the problem. Then, write the code."*  
+> **— John Johnson**
 
 </div>
