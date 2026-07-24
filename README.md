@@ -70,24 +70,28 @@ Passionate about building reliable software, exploring new technologies, and con
 
 <p align="center">
 
-<a href="https://github.com/batuhanisiklar/REPO1">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=batuhanisiklar&repo=REPO1&theme=tokyonight&hide_border=true" alt="Project 1"/>
+<a href="https://github.com/batuhanisiklar/Tether">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=batuhanisiklar&repo=REPO1&theme=tokyonight&hide_border=true" alt="Tether"/>
 </a>
 
-<a href="https://github.com/batuhanisiklar/REPO2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=batuhanisiklar&repo=REPO2&theme=tokyonight&hide_border=true" alt="Project 2"/>
+<a href="https://github.com/batuhanisiklar/quick-dash">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=batuhanisiklar&repo=REPO1&theme=tokyonight&hide_border=true" alt="QuickDash — Real-Time Windows Monitoring Dashboard"/>
+</a>
+
+<a href="https://github.com/batuhanisiklar/BreastCancer-MLP-Evaluator">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=batuhanisiklar&repo=REPO2&theme=tokyonight&hide_border=true" alt="MLP Classifier Evaluation using Tkinter GUI"/>
 </a>
 
 </p>
 
 <p align="center">
 
-<a href="https://github.com/batuhanisiklar/REPO3">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=batuhanisiklar&repo=REPO3&theme=tokyonight&hide_border=true" alt="Project 3"/>
+<a href="https://github.com/batuhanisiklar/resume-site">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=batuhanisiklar&repo=REPO3&theme=tokyonight&hide_border=true" alt="ResumeSite (.NET + Docker + Jenkins)"/>
 </a>
 
-<a href="https://github.com/batuhanisiklar/REPO4">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=batuhanisiklar&repo=REPO4&theme=tokyonight&hide_border=true" alt="Project 4"/>
+<a href="https://github.com/batuhanisiklar/speed-limit-detection">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=batuhanisiklar&repo=REPO4&theme=tokyonight&hide_border=true" alt="Speed Limit Sign Detection using OpenCV | Tesseract"/>
 </a>
 
 </p>
@@ -99,8 +103,6 @@ Passionate about building reliable software, exploring new technologies, and con
 
 <p align="center">
   <img height="180" src="https://streak-stats.demolab.com?user=batuhanisiklar&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-  &nbsp;&nbsp;
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=batuhanisiklar&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 </p>
 
 ---
