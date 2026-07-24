@@ -7,10 +7,6 @@ Building software, learning continuously, and solving real-world problems.
 
 <p>
 
-<a href="https://github.com/batuhanisiklar">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
 <a href="https://linkedin.com/in/batuhanisiklar">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
@@ -101,7 +97,7 @@ A modern software project focused on clean architecture and scalable application
 
 **Tech**
 
-`C#` `ASP.NET` `PostgreSQL`
+`Python` `PyQt6` `WebSockets` `PostgreSQL` `Kotlin`
 
 <a href="https://github.com/batuhanisiklar/Tether">View Repository →</a>
 
@@ -115,7 +111,7 @@ Real-time Windows monitoring dashboard with performance analytics.
 
 **Tech**
 
-`C#` `.NET` `WinForms`
+`Python` `WebSockets` `HTML5/CSS3` `JavaScript` `PostgreSQL`
 
 <a href="https://github.com/batuhanisiklar/quick-dash">View Repository →</a>
 
@@ -184,7 +180,6 @@ Explore all repositories on my GitHub profile.
 </tr>
 
 </table>
-
 ---
 
 # 📊 GitHub Statistics
