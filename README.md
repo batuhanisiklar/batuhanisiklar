@@ -1,7 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&text=👋%20Hi%20I'm%20Batuhan%20Işıklar&fontAlign=50&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
 <div align="center">
 
-### Software Engineer
+### Computer Engineer
 
 Building software, learning continuously, and solving real-world problems.
 
