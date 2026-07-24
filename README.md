@@ -67,8 +67,9 @@
 
 <div align="center">
   <br />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=batuhanisiklar&theme=tokyonight&hide_border=true" alt="Batuhan's GitHub Streak" />
-  <img height="165" src="https://github-readme-stats.denvercoder1.amp88.workers.dev/api/top-langs?username=batuhanisiklar&layout=compact&theme=tokyonight&hide_border=true&card_width=320" alt="Most Used Languages" />
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=batuhanisiklar&theme=tokyonight&hide_border=true&border_radius=8" alt="Batuhan's GitHub Streak" />
+  &nbsp;&nbsp;
+  <img height="180" src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs?username=batuhanisiklar&layout=compact&theme=tokyonight&hide_border=true&card_width=320&border_radius=8" alt="Most Used Languages" />
 </div>
 
 <br />
