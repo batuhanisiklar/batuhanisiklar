@@ -63,17 +63,18 @@
 
 ---
 
-### 📊 GitHub Activity
+## 📊 GitHub Activity
 
 <div align="center">
-  <br />
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=batuhanisiklar&theme=tokyonight&hide_border=true&border_radius=8" alt="Batuhan's GitHub Streak" />
-  &nbsp;&nbsp;
-  <img height="180" src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs?username=batuhanisiklar&layout=compact&theme=tokyonight&hide_border=true&card_width=320&border_radius=8" alt="Most Used Languages" />
+
+<img height="180" src="https://streak-stats.demolab.com?user=batuhanisiklar&theme=tokyonight&hide_border=true&border_radius=8" alt="GitHub Streak"/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=batuhanisiklar&layout=compact&theme=tokyonight&hide_border=true&border_radius=8&langs_count=8" alt="Top Languages"/>
+
 </div>
 
-<br />
+<br>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C9FF&height=100&section=footer"/>
 </p>
