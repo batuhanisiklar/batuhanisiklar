@@ -1,43 +1,79 @@
-<h3>Hello, I'm Batuhan!</h3>
+<div align="center">
 
-<p align="left">
-I am a junior network engineer with experience in Python, .NET, Go, and Flask for application development and automation. I have worked with Docker, Kubernetes, and microservices, along with Kafka and RabbitMQ for messaging.
+  # 🚀 Hi, I'm Batuhan Işıklar!
+  ### Network & Cloud Automation Engineer
 
-I have also developed AWS-based projects, utilizing S3 for bucket-based storage solutions. Additionally, I am familiar with Bash scripting and WebSocket for real-time communication. I am eager to expand my skills in network engineering and cloud technologies.
+  <p align="center">
+    Passionate about network architecture, cloud infrastructure, and backend automation.
+  </p>
 
-</p>
+  <!-- Social Media & Contact -->
+  <p align="center">
+    <a href="https://linkedin.com/in/batuhanisiklar"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="mailto:your.email@domain.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  </p>
 
-<p align="left">
-  <b>Programming Languages</b>
-  <br />
-  <br />
-  <img src="https://skillicons.dev/icons?i=go,python,bash,cs,java" />
-</p>
+</div>
 
-<p align="left">
-  <b>Backend Frameworks & Runtimes</b>
-  <br />
-  <br />
-  <img src="https://skillicons.dev/icons?i=flask,dotnet" />
-</p>
+---
 
-<p align="left">
-  <b>Databases</b>
-  <br />
-  <br />
-  <img src="https://skillicons.dev/icons?i=mysql,postgresql" />
-</p>
+### 💡 About Me
 
-<p align="left">
-  <b>Other</b>
-  <br />
-  <br />
-  <img src="https://skillicons.dev/icons?i=git,aws,docker,cloudflare,kafka,postman,kubernetes,powershell" />
-</p>
+* 🌐 **Network & Cloud:** Developing expertise in network engineering and cloud environments, with a focus on designing scalable and secure architectures.
+* ⚙️ **Automation & Backend:** Building microservice automations and real-time applications using Python, Go, C# (.NET), and Flask.
+* 🐳 **DevOps & Containerization:** Experienced with Docker, Kubernetes, and asynchronous message queuing systems like Kafka and RabbitMQ.
+* ☁️ **Cloud Solutions:** Implementing cloud-native storage and delivery solutions with AWS S3 and Cloudflare.
+* 💬 **Interests:** Always open to discussing network automation, Linux/Bash scripting, and WebSocket implementations.
 
-<p align="left">
-  <b>Most Used Languages</b>
+---
+
+### 🛠️ Tech Stack
+
+<table align="center">
+  <tr>
+    <td align="center" width="22%"><b>Languages</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=py,go,cs,java,bash,powershell" alt="Languages" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="22%"><b>Backend & Web</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=flask,dotnet" alt="Backend" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="22%"><b>Cloud & DevOps</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,cloudflare,kafka,rabbitmq" alt="DevOps" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="22%"><b>Databases</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=postgres,mysql" alt="Databases" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="22%"><b>Tools</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=git,postman,linux" alt="Tools" />
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
   <br />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=batuhanisiklar&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=default&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=batuhanisiklar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Batuhan's GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=batuhanisiklar&layout=compact&theme=tokyonight&hide_border=true&card_width=320" alt="Most Used Languages" />
+</div>
+
+<br />
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer" width="100%" />
 </p>
