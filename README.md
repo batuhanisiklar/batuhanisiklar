@@ -1,3 +1,5 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&text=Batuhan%20Işıklar&fontAlign=50&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
+
 <div align="center">
 
 # 👋 Hi, I'm Batuhan Işıklar
@@ -220,3 +222,5 @@ Explore all repositories on my GitHub profile.
 > **— John Johnson**
 
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=gradient"/>
